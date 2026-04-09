@@ -48,6 +48,8 @@ Welcome to the **Java Bootcamp**, a hands-on journey crafted to transform you fr
 ---
 
 ## 📁 Repository Map
+
+```text
 📦 JAVABOOTCAMP
 ┣ 📂 Sem 3
 ┃ ┣ 📂 WEEK1
@@ -72,7 +74,6 @@ Welcome to the **Java Bootcamp**, a hands-on journey crafted to transform you fr
 ┃ ┗ 📂 TrainConsistApp
 ┃
 ┗ 📜 README.md
-
 ---
 
 ## 🧾 Structure Insight

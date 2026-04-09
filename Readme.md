@@ -48,17 +48,44 @@ Welcome to the **Java Bootcamp**, a hands-on journey crafted to transform you fr
 ---
 
 ## 📁 Repository Map
+📦 JAVABOOTCAMP
+┣ 📂 Sem 3
+┃ ┣ 📂 WEEK1
+┃ ┣ 📂 WEEK2
+┃ ┣ 📂 WEEK3
+┃ ┣ 📂 WEEK4
+┃ ┣ 📂 WEEK5
+┃ ┣ 📂 WEEK6
+┃ ┣ 📂 WEEK7
+┃ ┣ 📂 WEEK8
+┃ ┣ 📂 WEEK9
+┃ ┣ 📂 WEEK10
+┃ ┣ 📂 WEEK11
+┃ ┣ 📂 WEEK11&12
+┃ ┗ 📂 WEEK13
+┃
+┣ 📂 SEM 4
+┃ ┣ 📂 auditriskfolder
+┃ ┣ 📂 BookMyStay
+┃ ┣ 📂 Hashtable
+┃ ┣ 📂 Palindrome
+┃ ┗ 📂 TrainConsistApp
+┃
+┗ 📜 README.md
 
-📦 JAVABOOTCAMP  
-┣ 📂 Basics  
-┣ 📂 ControlFlow  
-┣ 📂 Arrays & Strings  
-┣ 📂 OOP  
-┣ 📂 Collections  
-┣ 📂 ExceptionHandling  
-┣ 📂 FileHandling  
-┣ 📂 Projects  
-┗ 📜 README.md  
+---
+
+## 🧾 Structure Insight
+
+- 📘 **Sem 3** → Weekly structured learning (concept building)  
+- 🚀 **Sem 4** → Real-world applications & mini-projects  
+
+### 💡 Highlight Projects
+
+- 🏨 **BookMyStay** → Hotel booking system  
+- 🔢 **Hashtable** → Data structure implementation  
+- 🔁 **Palindrome** → String-based problem solving  
+- 🚆 **TrainConsistApp** → Train management simulation  
 
 ---
 
@@ -75,3 +102,54 @@ git clone https://github.com/Nikunj2401-s/JAVABOOTCAMP.git
 cd JAVABOOTCAMP
 javac FileName.java
 java FileName
+
+## 🧪 Practice Strategy
+
+💡 Don’t just read code — **break it, modify it, experiment with it!**
+
+- Change inputs 🔄  
+- Add new features ✨  
+- Solve the same problem differently 🧩  
+
+---
+
+## 🏆 Mini Challenges
+
+- 🔹 Build a calculator  
+- 🔹 Create a student management system  
+- 🔹 Design a simple banking app  
+- 🔹 Solve DSA problems using Java  
+
+---
+
+## 🤝 Contribute & Grow
+
+Want to make this better? You're welcome! 🌍
+
+- Fork the repository  
+- Create a new branch  
+- Make your changes  
+- Submit a Pull Request  
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 🌈 Final Note
+
+This bootcamp is not about memorizing Java —  
+it's about **thinking like a programmer** 🧠⚡
+
+---
+
+## ⭐ Show Some Love
+
+If this helped you:
+
+- 🌟 Star the repo  
+- 🔗 Share with friends  
+- 💬 Give feedback  

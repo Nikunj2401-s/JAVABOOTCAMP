@@ -45,6 +45,38 @@ Welcome to the **Java Bootcamp**, a hands-on journey crafted to transform you fr
 ✔ Clean coding practices  
 ✔ Confidence for interviews & projects  
 
+
+
+## 🧾 Structure Insight
+
+- 📘 **Sem 3** → Weekly structured learning (concept building)  
+- 🚀 **Sem 4** → Real-world applications & mini-projects  
+
+---
+
+## 💡 Highlight Projects
+
+- 🏨 **BookMyStay** → Hotel booking system  
+- 🔢 **Hashtable** → Data structure implementation  
+- 🔁 **Palindrome** → String-based problem solving  
+- 🚆 **TrainConsistApp** → Train management simulation  
+
+---
+
+## ⚙️ Setup & Run
+
+### 🔧 Requirements
+- Java JDK 8+
+- Any IDE (VS Code / IntelliJ / Eclipse)
+
+### ▶️ Run in 3 Steps
+
+```bash
+git clone https://github.com/Nikunj2401-s/JAVABOOTCAMP.git
+cd JAVABOOTCAMP
+javac FileName.java
+java FileName
+
 ---
 
 ## 📁 Repository Map
@@ -75,33 +107,3 @@ Welcome to the **Java Bootcamp**, a hands-on journey crafted to transform you fr
 ┃
 ┗ 📜 README.md
 ---
----
-## 🧾 Structure Insight
-
-- 📘 **Sem 3** → Weekly structured learning (concept building)  
-- 🚀 **Sem 4** → Real-world applications & mini-projects  
-
----
-
-## 💡 Highlight Projects
-
-- 🏨 **BookMyStay** → Hotel booking system  
-- 🔢 **Hashtable** → Data structure implementation  
-- 🔁 **Palindrome** → String-based problem solving  
-- 🚆 **TrainConsistApp** → Train management simulation  
-
----
-
-## ⚙️ Setup & Run
-
-### 🔧 Requirements
-- Java JDK 8+
-- Any IDE (VS Code / IntelliJ / Eclipse)
-
-### ▶️ Run in 3 Steps
-
-```bash
-git clone https://github.com/Nikunj2401-s/JAVABOOTCAMP.git
-cd JAVABOOTCAMP
-javac FileName.java
-java FileName
